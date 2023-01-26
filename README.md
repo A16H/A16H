@@ -4,12 +4,21 @@
 
 #
 
-### 💛 Discord: A16H#0016 ~ </p>
-### 🤍 Pronouns: They/Them ~
-### 💜 Currently doing a Games Design course! ~
-### 🖤 Learning C++ for games development! ~ 
+> ### 💛 Discord: A16H#0016 ~
+>> ### 🤍 Pronouns: They/Them ~
+>>> ### 💜 Currently doing a Games Design course! ~
+>>>> ### 🖤 Learning C++ for games development! ~ 
 
 #
+
+**[🌸 Twitter](https://twitter.com/A16H9)** ~
+
+**[🌺 YouTube](https://www.youtube.com/channel/UCmggjE1AlwV_SRpzOorywTA)** ~
+
+**[🌷 Steam](https://steamcommunity.com/id/a16h/)** ~
+
+#
+
 
 ## 🌈 Cat Wall <3 ~
 <p align="center">
