@@ -7,7 +7,7 @@
 > ### 💛 Discord: a16h ~
 >> ### 🤍 Pronouns: They/Them ~
 >>> ### 💜 Currently doing a Games Design course! ~
->>>> ### 🖤 Learning C++ for games development! ~ 
+>>>> ### 🖤 Learning C# for games development! ~ 
 
 #
 
